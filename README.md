@@ -3,12 +3,12 @@
 Please create a website for a company or product called "Blixt". Include the following:
 
 - A header with the Blixt logo (use a placeholder image for now)
-- A hero section with a catchy slogan for Blixt (use something generic like "Blixt - Powering the Future" since we don't know the details yet)
-- An "About Blixt" section with some placeholder text 
+- A hero section with a catchy slogan for Blixt (use something generic like "Blixt - Powering the Future" since we don't know the details yet) 
+- An "About Blixt" section with some placeholder text
 - A "Products" section with 3 placeholder product cards
 - A "Contact Us" section with a contact form
-- A footer with a copyright notice and links to Terms of Service and Privacy Policy
-- On the side of the page, add a box that says "Tic-Tac-Toe game coming soon!" 
+- A footer with a copyright notice and links to Terms of Service and Privacy Policy 
+- On the side of the page, add a box that says "Tic-Tac-Toe game coming soon!"
 
 Use a clean, modern design with an appealing color scheme. Make sure it looks polished and professional. Don't worry about the actual content yet, just focus on the overall structure and design.
 
